@@ -3,7 +3,9 @@
 Installation
 
  
-pip3 install colored 
+pip3 install colored , or 
+
+pip install pyfiglet==0.7
  
  
 pip3 install Figlet install 
